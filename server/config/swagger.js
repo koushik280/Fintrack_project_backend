@@ -9,8 +9,8 @@ const options = {
       version: '1.0.0',
       description: 'Complete API documentation for FinTrack – Personal Finance Management Application',
       contact: {
-        name: 'Your Name',
-        email: 'support@fintrack.com',
+        name: 'Koushik Karmakar',
+        email: 'koushikkarmakar@679gmail.com',
       },
     },
     servers: [
