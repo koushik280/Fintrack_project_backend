@@ -19,7 +19,7 @@ const options = {
         description: 'Development server',
       },
       {
-        url: 'https://your-backend.onrender.com/api',
+        url: 'https://fintrack-project-backend.onrender.com/api',
         description: 'Production server',
       },
     ],
